@@ -1,0 +1,2 @@
+# api_call.py: 1
+requests == 2.18.4
